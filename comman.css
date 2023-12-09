@@ -1,0 +1,237 @@
+.navbar .navbar-nav .nav-item {  
+    padding: 15px;
+}
+
+.nav-link :hover{
+    
+   border-bottom: 2px dotted;
+}
+#copy:hover{
+    /* background-color: yellow; */
+   text-decoration: underline;
+} 
+.green{
+    padding-left: 10%;
+}
+.yellow{
+    padding-top: 12%;
+}
+.yellow1:hover{
+    text-decoration: underline;
+
+}
+.bnm{
+      border: 1px solid blue;
+}
+
+.row-1{
+    width: 290px;
+    height: 276px;
+    border: 2px solid red;
+    float: left;
+    margin: 4px;
+}
+.row-2{
+    width: 290px;
+    height: 275px;
+    border: 2px solid red;
+    float: left;
+    margin: 4px;
+}
+.row-3{
+    width: 290px;
+    height: 275px;
+    border: 2px solid red;
+    float: left;
+    margin: 4px;
+}
+.row-4{
+    width: 290px;
+    height: 275px;
+    border: 2px solid red;
+    float: left;
+    margin: 4px;
+}
+.row-5{
+    width: 305px;
+    height: 275px;
+    border: 2px solid red;
+    float: left;
+    margin: 4px;
+}
+
+.abc{
+    width: 287px;
+    height: 25px;
+    background-color: blue;
+    color: white;
+    
+}
+
+.bg{
+    width: 100%;
+    height: 300px;
+    background-color: #176B87;
+}
+.abc{
+    padding-left: 5px;
+}
+.jkl{
+    padding-left: 5px;
+}
+
+.asd{
+    width: 287px;
+    height: 248px;
+    background-color: whitesmoke;
+}
+.aman{
+    min-height: 247px;
+    max-width: 400px;
+    min-width: 100px;
+    max-height:30px ;
+    overflow: auto;
+   background: whitesmoke;
+}
+.bcd{
+    width: 302px;
+    height: 29px;
+    background-color: red;
+}
+.job{
+    width: 302px;
+    height: 29px;
+    background-color: whitesmoke;
+}
+.col-1{
+    width: 992px;
+    height: 710px;
+    border: 2px solid red;
+    float: right;
+    margin: 5px;
+}
+.col-2{
+    width: 490px;
+    height: 199px;
+    border: 2px solid red;
+    margin: 5px;
+  
+}
+.col-3{
+    width: 490px;
+    height: 200px;
+    border: 2px solid red;
+    margin: 5px;
+}
+.col-4{
+    width: 490px;
+    height: 200px;
+    border: 2px solid red;
+    margin: 5px;
+}
+.abs{
+    width: 302px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
+.ab{
+    width: 487px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    
+}
+
+.cvb{
+    width: 302px;
+    height: 243px;
+    background-color: whitesmoke;
+}
+b{
+    color: green;
+}
+b:hover{
+    color:red;
+}
+.kpl{
+    width: 487px;
+    height: 167px;
+    background-color: whitesmoke;
+   
+}
+.fgh{
+   background-color: blue;
+   color: white;
+}
+.baby{
+    color: green;
+}
+.not{
+    color: red;
+}
+.nat{
+    color: brown;
+}
+.cop{
+    color: blue;
+}
+.ads{
+    color:red;
+}
+.papa{
+    margin-left: 70px;
+}
+.kp{
+    min-height: 20px;
+    max-height: 296px;
+    min-width: 300px;
+    max-width: 500px;
+   
+    color: red;
+}
+.kp:hover{
+    color: green;
+    display: block;
+    
+    
+}
+.kp.stop-hover:hover{
+    background-color: blue;
+}
+.popy{
+  text-align: center;
+  animation: color 5s infinite;
+}
+@keyframes color{
+    0%{color:orange}
+    10%{color:purple}
+    20%{color:red}
+    30%{color:cadetblue}
+    40%{color:yellow}
+    50%{color:coral}
+    60%{color:green}
+    70%{color:cyan}
+    80%{color:deeppink}
+    90%{color:dodgerblue}
+    100%{color:orange}
+     
+}
+.red{
+    animation: color 5s infinite;
+}
+@keyframes color{
+    0%{color:orange}
+    10%{color:purple}
+    20%{color:red}
+    30%{color:cadetblue}
+    40%{color:yellow}
+    50%{color:coral}
+    60%{color:green}
+    70%{color:cyan}
+    80%{color:deeppink}
+    90%{color:dodgerblue}
+    100%{color:orange}
+     
+}

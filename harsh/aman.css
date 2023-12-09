@@ -1,0 +1,25 @@
+.col-1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    float: right;
+    margin: 5px;
+}
+.col-2{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+  
+}
+.col-3{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    margin: 5px;
+}
+.col-4{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    margin: 5px;
+}
